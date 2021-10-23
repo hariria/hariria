@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently working @Facebook. Check out my work at [hariri.dev](https://hariri.dev).
+
 <!--
 **hariria/hariria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
